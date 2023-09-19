@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Tusi</title>
+    <meta charset="UTF-8">
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+    <script src="tusi.js" charset="UTF-8"></script>
+    <link rel="stylesheet" href="tusi.css">
+</head>
+<body>
+<div class="calender">
+    <div class="book-date"></div>
+    <div class="date-viewer"></div>
+    <div class="hour-viewer"></div>
+    <script>
+        var tusi =  Tusi.create('.book-date');
+        tusi.dateOnClick = function(el, instance){
+            console.log('Click Date', instance.getSelectedDay());
+        }
+        tusi.hourOnClick = function(el, instance){
+            console.log('Click Hour', instance.getSelectedHour());
+        }
+    </script>
+</div>
+</body>
+</html>
