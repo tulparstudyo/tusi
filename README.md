@@ -2,7 +2,7 @@
 Custom Date Picker
 
 ## Örnek Kod
-``
+```
 <div class="calender">
     <div class="book-date"></div>
     <div class="date-viewer"></div>
@@ -17,4 +17,4 @@ Custom Date Picker
         console.log('Click Hour', instance.getSelectedHour());
     }
 </script>
-``
+```
