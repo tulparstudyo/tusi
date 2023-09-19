@@ -1,0 +1,82 @@
+
+    .calender *{
+        border: 0px solid #00ff00;
+        box-sizing: border-box;
+        position: relative;
+    }
+    .calender ul{
+        list-style: none;
+        padding: 0;
+        margin: 0;
+    }
+    .calender ul li{
+        text-align: center;
+    }
+    .calender{
+        width: 600px;
+        border: 1px solid;
+        border-radius: 10px;
+        margin: auto;
+    }
+    .book-date{
+        padding: 0px 40px;
+        display: inline-block;
+        width: 100%;
+    }
+    .tusi-month{
+        /* position: absolute; */
+        text-align: center;
+        line-height: 40px;
+    }
+    .tusi-nav{
+        width: 40px;
+        position: absolute;
+        text-align: center;
+        cursor: pointer;
+    }
+    .tusi-nav:hover{
+        background: #3d546f;
+        color: #8ad5f4;
+    }
+    .tusi-nav.prev{
+        left: -40px;
+    }
+    .tusi-nav.next{
+        right: -40px;
+    }
+    .tusi-navigate{
+
+    }
+    .tusi-navigate ul{
+
+    }
+    .tusi-navigate li{
+        float: left;
+        width: 14.285%;
+    }
+    .tusi-navigate li.selected{
+        background-color: #2c70a2;
+        color: #ffffff;
+    }
+    ul.tusi-hour{
+        clear: both;
+        display: inline-block;
+        width: 100%;
+    }
+    .tusi-hour ul{
+
+    }
+    .tusi-hour li{
+        width: 33%;
+        float: left;
+        text-align: center;
+        line-height: 40px;
+    }
+    .tusi-hour li.selected{
+        background-color: #2c70a2;
+        color: #ffffff;
+    }
+    .date_viewer, .hour_viewer{
+        text-align: center;
+        line-height: 20px;
+    }
