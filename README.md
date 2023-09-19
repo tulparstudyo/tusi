@@ -1,7 +1,7 @@
 # tusi
 Custom Date Picker
 
-## Örnek Kod
+## Example Code
 ```
 <div class="calender">
     <div class="book-date"></div>
@@ -18,3 +18,6 @@ Custom Date Picker
     }
 </script>
 ```
+## Preview
+![image](https://github.com/tulparstudyo/tusi/assets/37733016/bc7543b1-8dba-4c48-a96d-29c29a2f8f56)
+
