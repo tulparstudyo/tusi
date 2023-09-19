@@ -1,5 +1,5 @@
 # tusi
-Custom Date Picker. For in memory of [Nasir al-Din Tusi](https://en.wikipedia.org/wiki/Nasir_al-Din_al-Tusi)
+Custom Date Picker, in memory of [Nasir al-Din Tusi](https://en.wikipedia.org/wiki/Nasir_al-Din_al-Tusi)
 
 ## Example Code
 ```
