@@ -21,6 +21,6 @@ Custom Date Picker, in memory of [Nasir al-Din Tusi](https://en.wikipedia.org/wi
 ## Previews
 ![image](https://github.com/tulparstudyo/tusi/assets/37733016/bc7543b1-8dba-4c48-a96d-29c29a2f8f56)
 ![image](https://github.com/tulparstudyo/tusi/assets/37733016/c11fd015-38a8-4181-80f5-f3d023f23726)
-Designed by MuratCihanUludag 
+<br>Designed by MuratCihanUludag 
 
 
